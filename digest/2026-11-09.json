@@ -1,0 +1,175 @@
+{
+ "week": "2026-11-09",
+ "to": "2026-11-15",
+ "builtAt": "2026-11-16T13:24:09.177Z",
+ "advice": [
+  {
+   "kind": "security",
+   "items": [
+    {
+     "iso2": "PL",
+     "at": "2026-11-11T15:42:44Z",
+     "note": "Updated information following the terrorist attack in Kraków, including advice for those affected (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/poland"
+    }
+   ]
+  },
+  {
+   "kind": "health",
+   "items": [
+    {
+     "iso2": "LR",
+     "at": "2026-11-11T16:56:17Z",
+     "note": "Updated information about heightened health screening measures for travellers arriving into Liberia (See 'Ebola screening' on the ‘Entry requirements’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/liberia"
+    },
+    {
+     "iso2": "MG",
+     "at": "2026-11-11T15:51:34Z",
+     "note": "Updated information about Ebola including entry requirements and health screening (‘Entry requirements’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/madagascar"
+    },
+    {
+     "iso2": "CI",
+     "at": "2026-11-09T16:16:31Z",
+     "note": "New information about Ebola screening and health declarations when arriving in country (‘Entry requirements’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire"
+    }
+   ]
+  },
+  {
+   "kind": "weather",
+   "items": [
+    {
+     "iso2": "PT",
+     "at": "2026-11-12T11:00:21Z",
+     "note": "Removal of information on severe weather",
+     "ended": true,
+     "url": "https://www.gov.uk/foreign-travel-advice/portugal"
+    },
+    {
+     "iso2": "PT",
+     "at": "2026-11-10T14:25:20Z",
+     "note": "New information about severe weather (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/portugal"
+    },
+    {
+     "iso2": "CL",
+     "at": "2026-11-09T12:06:58Z",
+     "note": "Removal of information about heavy rain and severe mudslides in eastern Santiago ('Warnings and insurance’ page).",
+     "ended": true,
+     "url": "https://www.gov.uk/foreign-travel-advice/chile"
+    }
+   ]
+  },
+  {
+   "kind": "unrest",
+   "items": [
+    {
+     "iso2": "US",
+     "at": "2026-11-14T02:26:03Z",
+     "note": "Updated information on air traffic disruptions across the US",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/usa"
+    },
+    {
+     "iso2": "US",
+     "at": "2026-11-13T23:15:54Z",
+     "note": "Information on air traffic disruptions across the US",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/usa"
+    },
+    {
+     "iso2": "GE",
+     "at": "2026-11-12T16:54:23Z",
+     "note": "Updated information about the political situation ('Safety and security' page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/georgia"
+    },
+    {
+     "iso2": "GM",
+     "at": "2026-11-11T16:50:01Z",
+     "note": "New information about upcoming presidential elections (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/the-gambia"
+    },
+    {
+     "iso2": "ES",
+     "at": "2026-11-10T15:29:19Z",
+     "note": "New information about a national strike planned for 11 November ('Warnings and insurance' page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    }
+   ]
+  },
+  {
+   "kind": "entry",
+   "items": [
+    {
+     "iso2": "TT",
+     "at": "2026-11-11T16:31:16Z",
+     "note": "New information about Arrival/Departure card (‘Entry requirements’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago"
+    },
+    {
+     "iso2": "SZ",
+     "at": "2026-11-09T14:38:31Z",
+     "note": "Updated information about visa requirements, LGBT+ travellers, road travel and conditions and the health risks you’ll face in Eswatini (‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/eswatini"
+    }
+   ]
+  },
+  {
+   "kind": "review",
+   "items": [
+    {
+     "iso2": "NG",
+     "at": "2026-11-10T14:13:23Z",
+     "note": "This travel advice has been reviewed for accuracy with changes made throughout, including on land borders, street and vehicle crime, withdrawing and exchanging money, financial scams, terrorism in Nigeria, kidnapping for ransom, transport risks, dangers at road checkpoints, taxis and buses, sea travel, swimming safety, North West Nigeria and South East and South South Nigeria (See ‘Entry requirements’, ‘Safety and security’ and ‘Regional risks’ pages).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/nigeria"
+    }
+   ]
+  },
+  {
+   "kind": "other",
+   "items": [
+    {
+     "iso2": "ER",
+     "at": "2026-11-09T16:20:13Z",
+     "note": "Removal of information about the temporary withdrawal of dependants of British Embassy staff from Eritrea ('Warnings and insurance' page).",
+     "ended": true,
+     "url": "https://www.gov.uk/foreign-travel-advice/eritrea"
+    }
+   ]
+  }
+ ],
+ "hazards": [],
+ "entryAhead": [
+  {
+   "iso2": "BY",
+   "date": "2026-12-31",
+   "text": "The Belarusian authorities have announced that until 31 December 2026 all British nationals (except those entering on a diplomatic or official passport) can enter Belarus for up to 30 days without a visa, limited to a total of 90 days per calendar year.",
+   "url": "https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements"
+  },
+  {
+   "iso2": "CN",
+   "date": "2026-12-31",
+   "text": "Until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits or transit.",
+   "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements"
+  },
+  {
+   "iso2": "MN",
+   "date": "2026-12-31",
+   "text": "You can visit Mongolia for tourism purposes for up to 30 days without a visa until 31 December 2026.",
+   "url": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements"
+  }
+ ]
+}
