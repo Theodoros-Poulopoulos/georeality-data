@@ -1,4 +1,18 @@
 {
-  "generatedAt": "2026-11-14T11:57:35.146Z",
-  "situations": {}
+  "generatedAt": "2026-11-17T14:09:56.216Z",
+  "situations": {
+    "IN": [
+      {
+        "eventType": "TC",
+        "label": "Tropical cyclone",
+        "alertLevel": "Orange",
+        "name": "Tropical Cyclone AKVAN-26",
+        "fromDate": "2026-11-16",
+        "toDate": "2026-11-17",
+        "reportUrl": "https://www.gdacs.org/report.aspx?eventid=1001351&episodeid=3&eventtype=TC",
+        "glide": null,
+        "affectedCountryCount": 1
+      }
+    ]
+  }
 }
