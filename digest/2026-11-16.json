@@ -1,0 +1,235 @@
+{
+ "week": "2026-11-16",
+ "to": "2026-11-22",
+ "builtAt": "2026-11-23T15:43:43.865Z",
+ "advice": [
+  {
+   "kind": "security",
+   "items": [
+    {
+     "iso2": "PK",
+     "at": "2026-11-18T16:36:34Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/pakistan"
+    },
+    {
+     "iso2": "TR",
+     "at": "2026-11-18T16:36:28Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/turkey"
+    },
+    {
+     "iso2": "SY",
+     "at": "2026-11-18T16:36:20Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/syria"
+    },
+    {
+     "iso2": "YE",
+     "at": "2026-11-18T16:36:14Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/yemen"
+    },
+    {
+     "iso2": "AE",
+     "at": "2026-11-18T16:33:03Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates"
+    },
+    {
+     "iso2": "SA",
+     "at": "2026-11-18T16:32:22Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia"
+    },
+    {
+     "iso2": "QA",
+     "at": "2026-11-18T16:32:02Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/qatar"
+    },
+    {
+     "iso2": "OM",
+     "at": "2026-11-18T16:31:54Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/oman"
+    },
+    {
+     "iso2": "IL",
+     "at": "2026-11-18T16:31:51Z",
+     "note": "Updated information about regional tensions (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/israel"
+    },
+    {
+     "iso2": "KW",
+     "at": "2026-11-18T16:31:45Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/kuwait"
+    },
+    {
+     "iso2": "IQ",
+     "at": "2026-11-18T16:31:24Z",
+     "note": "Updated information about regional tensions (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/iraq"
+    },
+    {
+     "iso2": "BH",
+     "at": "2026-11-18T16:31:19Z",
+     "note": "Updated information about regional tensions (See ‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/bahrain"
+    },
+    {
+     "iso2": "JO",
+     "at": "2026-11-18T16:31:10Z",
+     "note": "Updated information about regional tensions, demonstrations and mass gatherings, and incidents of terrorism (‘Warnings and insurance’ and ‘Safety and security’ pages).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/jordan"
+    },
+    {
+     "iso2": "IR",
+     "at": "2026-11-18T16:30:59Z",
+     "note": "Updated information about regional tensions (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/iran"
+    }
+   ]
+  },
+  {
+   "kind": "weather",
+   "items": [
+    {
+     "iso2": "BR",
+     "at": "2026-11-17T13:27:42Z",
+     "note": "New information about the risk of extreme weather due to the El Niño climate event (‘Safety and security’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/brazil"
+    }
+   ]
+  },
+  {
+   "kind": "unrest",
+   "items": [
+    {
+     "iso2": "US",
+     "at": "2026-11-20T19:57:12Z",
+     "note": "Removal of information about air traffic disruptions across the US",
+     "ended": true,
+     "url": "https://www.gov.uk/foreign-travel-advice/usa"
+    },
+    {
+     "iso2": "EC",
+     "at": "2026-11-20T13:14:04Z",
+     "note": "Updated information following the Ecuadorean government extending the state of emergency for a further 30 days, and updated information about drug-assisted robbery ('Warnings and insurance' and 'Safety and security' pages).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/ecuador"
+    },
+    {
+     "iso2": "GT",
+     "at": "2026-11-16T16:17:57Z",
+     "note": "New information about a State of Emergency in Zacapa and Izabal ('Warnings and insurance' page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/guatemala"
+    }
+   ]
+  },
+  {
+   "kind": "entry",
+   "items": [
+    {
+     "iso2": "LA",
+     "at": "2026-11-18T15:21:37Z",
+     "note": "New information on the risk of attempting to smuggle drugs out of Laos, and updated information about land borders and crossing with Thailand and Cambodia ('Warnings and insurance' page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/laos"
+    },
+    {
+     "iso2": "VE",
+     "at": "2026-11-18T11:13:15Z",
+     "note": "Updated information about documents you must show to immigration authorities upon arrival and the ban on any vaping device, including those that do not contain nicotine (‘Entry requirements’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/venezuela"
+    }
+   ]
+  },
+  {
+   "kind": "other",
+   "items": [
+    {
+     "iso2": "LA",
+     "at": "2026-11-19T14:37:32Z",
+     "note": "Updated information about the Laos legal system and the consequences of illegal drugs in Laos (See ‘Legal system’ and ‘Illegal drugs and the death penalty’ on the ‘Safety and security’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/laos"
+    },
+    {
+     "iso2": "MY",
+     "at": "2026-11-18T15:21:43Z",
+     "note": "New information about cannabis and drug offences (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/malaysia"
+    },
+    {
+     "iso2": "KH",
+     "at": "2026-11-18T15:21:31Z",
+     "note": "New information about cannabis and drug offences (‘Warnings and insurance’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/cambodia"
+    },
+    {
+     "iso2": "TW",
+     "at": "2026-11-18T15:21:27Z",
+     "note": "Updated information about illegal drug offences and penalties (‘Warnings and insurance’ and ‘Safety and security’ pages).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/taiwan"
+    },
+    {
+     "iso2": "FI",
+     "at": "2026-11-17T13:27:15Z",
+     "note": "Updated emergency services contacts to include the 112 Suomi App (‘Getting help’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/finland"
+    },
+    {
+     "iso2": "MG",
+     "at": "2026-11-16T10:56:40Z",
+     "note": "New information on the presence of ‘Africa Corps’ in Madagascar (‘Safety and security’ page).",
+     "ended": false,
+     "url": "https://www.gov.uk/foreign-travel-advice/madagascar"
+    }
+   ]
+  }
+ ],
+ "hazards": [],
+ "entryAhead": [
+  {
+   "iso2": "BY",
+   "date": "2026-12-31",
+   "text": "The Belarusian authorities have announced that until 31 December 2026 all British nationals (except those entering on a diplomatic or official passport) can enter Belarus for up to 30 days without a visa, limited to a total of 90 days per calendar year.",
+   "url": "https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements"
+  },
+  {
+   "iso2": "CN",
+   "date": "2026-12-31",
+   "text": "Until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits or transit.",
+   "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements"
+  },
+  {
+   "iso2": "MN",
+   "date": "2026-12-31",
+   "text": "You can visit Mongolia for tourism purposes for up to 30 days without a visa until 31 December 2026.",
+   "url": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements"
+  }
+ ]
+}
