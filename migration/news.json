@@ -1,7 +1,51 @@
 {
-  "builtAt": "2026-11-25T02:13:19.208Z",
+  "builtAt": "2026-11-25T15:21:25.271Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "dc848fad165e7cd4",
+      "route": "atlantic",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "Senegal: Missing migrant toll increases as arrivals to the Canary Islands continue",
+      "url": "https://www.infomigrants.net/en/post/74930/senegal-missing-migrant-toll-increases-as-arrivals-to-the-canary-islands-continue",
+      "publishedAt": "2026-11-25T13:05:07.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
+    },
+    {
+      "id": "afd15b3652fa0c87",
+      "route": "atlantic",
+      "outlet": "Canarias7",
+      "lang": "es",
+      "headline": "La ONG suiza que busca cayucos al S de Canarias",
+      "url": "https://www.canarias7.es/economia/ong-suiza-busca-cayucos-canarias-20261125130735-nt.html",
+      "publishedAt": "2026-11-25T12:07:36.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
+    },
+    {
+      "id": "d5589626d5fb2fa8",
+      "route": "atlantic",
+      "outlet": "Canarias7",
+      "lang": "es",
+      "headline": "Aviones en Barajas en lugar de cayucos en El Hierro: el videoanálisis del director de CANARIAS7",
+      "url": "https://www.canarias7.es/politica/aviones-barajas-lugar-cayucos-hierro-videoanalisis-director-20261125095915-nt.html",
+      "publishedAt": "2026-11-25T08:59:15.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
+    },
+    {
+      "id": "f3d0199f97e6d759",
+      "route": "eastern-med",
+      "outlet": "ERT News",
+      "lang": "el",
+      "headline": "Νέα άφιξη μεταναστών στη Γαύδο – Έφτασαν μέσα στη νύχτα στην Τρυπητή",
+      "url": "https://www.ertnews.gr/eidiseis/nea-afiksi-metanaston-sti-gaydo-eftasan-mesa-sti-nyxta-stin-trypiti/",
+      "publishedAt": "2026-11-25T07:39:31.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
+    },
     {
       "id": "deebad5cd5dac9bd",
       "route": "atlantic",
@@ -11,6 +55,17 @@
       "url": "https://www.canarias7.es/politica/hierro-recibe-604-migrantes-tres-nuevos-cayucos-20261124091043-nt.html",
       "publishedAt": "2026-11-24T21:57:40.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
+      "kind": "news"
+    },
+    {
+      "id": "dd6857c8f2ce9634",
+      "route": "eu-policy",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "ECHR issues mixed ruling on migrant rights in EU states along Belarus border",
+      "url": "https://www.infomigrants.net/en/post/74915/echr-issues-mixed-ruling-on-migrant-rights-in-eu-states-along-belarus-border",
+      "publishedAt": "2026-11-24T16:15:53.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
       "kind": "news"
     },
     {
@@ -56,6 +111,17 @@
       "publishedAt": "2026-11-24T00:00:00.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
       "kind": "policy"
+    },
+    {
+      "id": "8bbe9014d4095c0e",
+      "route": "eastern-med",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "Greece: 23 migrants rescued after boat chase off Kos",
+      "url": "https://www.infomigrants.net/en/post/74890/greece-23-migrants-rescued-after-boat-chase-off-kos",
+      "publishedAt": "2026-11-23T16:22:33.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
     },
     {
       "id": "f8fee49711b46ef8",
@@ -157,6 +223,17 @@
       "kind": "news"
     },
     {
+      "id": "1dc1a5602969c960",
+      "route": "eastern-med",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "Frontex expands surveillance as migrant arrivals to Crete rise",
+      "url": "https://www.infomigrants.net/en/post/74852/frontex-expands-surveillance-as-migrant-arrivals-to-crete-rise",
+      "publishedAt": "2026-11-20T14:19:27.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
+    },
+    {
       "id": "e93f162dee310fbc",
       "route": "eastern-med",
       "outlet": "ERT News",
@@ -198,6 +275,28 @@
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
+      "kind": "policy"
+    },
+    {
+      "id": "e00e4eb41e5b3239",
+      "route": "atlantic",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "Senegal: Dozens missing and at least one dead after migrant boat capsizes",
+      "url": "https://www.infomigrants.net/en/post/74826/senegal-dozens-missing-and-at-least-one-dead-after-migrant-boat-capsizes",
+      "publishedAt": "2026-11-19T12:03:26.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "news"
+    },
+    {
+      "id": "4539acd2623a7d40",
+      "route": "eu-policy",
+      "outlet": "EUAA",
+      "lang": "en",
+      "headline": "Finland adopts the first national list of safe countries of origin",
+      "url": "https://intermin.fi/-/turvallisten-alkuperamaiden-maarittaminen-tehostaa-turvapaikkahakemusten-kasittelya?languageId=en_US",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
       "kind": "policy"
     },
     {
@@ -243,6 +342,17 @@
       "publishedAt": "2026-11-18T12:13:56.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
       "kind": "news"
+    },
+    {
+      "id": "889eb075d0a8d238",
+      "route": "eu-policy",
+      "outlet": "EUAA",
+      "lang": "en",
+      "headline": "Amended draft Law on Foreigners was adopted by the Parliament",
+      "url": "https://www.parliament.bg/en/news/ID/6675",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "readAt": "2026-11-25T15:21:25.271Z",
+      "kind": "policy"
     },
     {
       "id": "cc79cb3f44dc20d1",
@@ -513,7 +623,7 @@
       "route": "eu-policy",
       "outlet": "EUAA",
       "lang": "en",
-      "headline": "Council of ministries adopts national plan against trafficking and serious exploitation",
+      "headline": "Council of Ministers adopts national plan against trafficking and serious exploitation",
       "url": "https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/4998/Adottato-il-Piano-Nazionale-contro-la-tratta-e-il-grave-sfruttamento",
       "publishedAt": "2026-11-02T00:00:00.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
