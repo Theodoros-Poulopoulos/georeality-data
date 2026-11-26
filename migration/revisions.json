@@ -111,6 +111,20 @@
    "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/17_informe_quincenal_acumulado_01-01_al_30-09-2025_.pdf",
    "fromReadAt": "2026-11-25T02:13:05.919Z",
    "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "gr-migration",
+   "area": "evros",
+   "measure": "arrivals",
+   "start": "2026-05-01",
+   "end": "2026-05-31",
+   "cumulative": false,
+   "from": 750,
+   "to": 751,
+   "fromDocument": "https://migration.gov.gr/wp-content/uploads/2026/10/Report_A_September-2026_International-Protection_Appendix-A_NEW.pdf",
+   "toDocument": "https://migration.gov.gr/wp-content/uploads/2026/11/Report_A_October-2026_International-Protection_Appendix-A_NEW.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T14:46:05.890Z"
   }
  ]
 }

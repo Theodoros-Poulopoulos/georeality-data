@@ -1,7 +1,40 @@
 {
-  "builtAt": "2026-11-25T15:21:25.271Z",
+  "builtAt": "2026-11-26T14:46:38.497Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "1b1efb2468ff31ac",
+      "route": "eastern-med",
+      "outlet": "ERT News",
+      "lang": "el",
+      "headline": "Νέα περιστατικά με αφίξεις μεταναστών στα νότια Κρήτης και Γαύδου – Πάνω από 240 άτομα σε λιγότερο από 12 ώρες",
+      "url": "https://www.ertnews.gr/eidiseis/nea-peristatika-me-afikseis-metanaston-sta-notia-kritis-kai-gaydou-pano-apo-240-atoma-se-ligotero-apo-12-ores/",
+      "publishedAt": "2026-11-26T13:14:58.000Z",
+      "readAt": "2026-11-26T14:46:38.497Z",
+      "kind": "news"
+    },
+    {
+      "id": "2d438677bffd2a16",
+      "route": "eu-policy",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "German court ruling tightens church asylum rules under new EU asylum framework",
+      "url": "https://www.infomigrants.net/en/post/74941/german-court-ruling-tightens-church-asylum-rules-under-new-eu-asylum-framework",
+      "publishedAt": "2026-11-25T17:16:15.000Z",
+      "readAt": "2026-11-26T14:46:38.497Z",
+      "kind": "news"
+    },
+    {
+      "id": "321a2bb6971d1e8b",
+      "route": "atlantic",
+      "outlet": "Europa Press",
+      "lang": "es",
+      "headline": "El Gobierno canario declara la emergencia sanitaria en El Hierro ante la llegada \"masiva\" de migrantes a la isla",
+      "url": "https://www.europapress.es/islas-canarias/noticia-gobierno-canario-declara-emergencia-sanitaria-hierro-llegada-masiva-migrantes-isla-20261125163615.html",
+      "publishedAt": "2026-11-25T15:36:15.000Z",
+      "readAt": "2026-11-26T14:46:38.497Z",
+      "kind": "news"
+    },
     {
       "id": "dc848fad165e7cd4",
       "route": "atlantic",
@@ -45,6 +78,17 @@
       "publishedAt": "2026-11-25T07:39:31.000Z",
       "readAt": "2026-11-25T15:21:25.271Z",
       "kind": "news"
+    },
+    {
+      "id": "adfc4ff73c32ee8b",
+      "route": "eu-policy",
+      "outlet": "EUAA",
+      "lang": "en",
+      "headline": "Government extends the buffer zone on the Polish-Belarusian border until the end of February 2027",
+      "url": "https://dziennikustaw.gov.pl/DU/rok/2026/pozycja/1550",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "readAt": "2026-11-26T14:46:38.497Z",
+      "kind": "policy"
     },
     {
       "id": "deebad5cd5dac9bd",
@@ -348,7 +392,7 @@
       "route": "eu-policy",
       "outlet": "EUAA",
       "lang": "en",
-      "headline": "Amended draft Law on Foreigners was adopted by the Parliament",
+      "headline": "Parliament adopts amended draft Law on Foreigners",
       "url": "https://www.parliament.bg/en/news/ID/6675",
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "readAt": "2026-11-25T15:21:25.271Z",
@@ -408,6 +452,17 @@
       "publishedAt": "2026-11-16T11:14:57.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
       "kind": "news"
+    },
+    {
+      "id": "d7cd0fa3c7ecebf4",
+      "route": "eu-policy",
+      "outlet": "EUAA",
+      "lang": "en",
+      "headline": "FIS screens 20,000 beneficiaries of international protection who have committed serious crimes to withdraw their status",
+      "url": "https://migri.fi/-/kansainvalinen-suojeluasema-voidaan-poistaa-torkeisiin-rikoksiin-tuomituilta",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "readAt": "2026-11-26T14:46:38.497Z",
+      "kind": "policy"
     },
     {
       "id": "f82f523bddab452d",
@@ -711,7 +766,7 @@
       "route": "eu-policy",
       "outlet": "EUAA",
       "lang": "en",
-      "headline": "Caritas calls for language courses, a multi-year and predictable framework for volunteering, and increase in refugee resettlement quota",
+      "headline": "Caritas calls for funding and improved services for immigrants at budget hearing",
       "url": "https://caritas.no/aktuelt/integreringsarbeid/flere-ma-fa-tilgang-til-gratis-norskopplaering/",
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
@@ -780,17 +835,6 @@
       "headline": "SAR celebrates a fruitful cooperation with Swiss partners",
       "url": "https://aref.government.bg/en/node/1389",
       "publishedAt": "2026-10-28T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "64fa59b7a7346e3f",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "EU Commission proposes reform of Frontex with expanded mandate",
-      "url": "https://home-affairs.ec.europa.eu/news/commission-proposes-stronger-frontex-more-resources-greater-role-returns-and-effective-crisis-2026-10-27_en",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
       "kind": "policy"
     }
