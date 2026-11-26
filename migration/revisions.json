@@ -1,3 +1,116 @@
 {
- "revisions": []
+ "revisions": [
+  {
+   "sourceId": "es-interior",
+   "area": "balearics",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-15",
+   "cumulative": true,
+   "from": 5483,
+   "to": 5465,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/17_informe_quincenal_acumulado_01-01_al_15-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/16_informe_quincenal_acumulado_01-01_al_15-09-2025.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "balearics",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-30",
+   "cumulative": true,
+   "from": 5844,
+   "to": 5827,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/18_informe_quincenal_acumulado_01-01_al_30-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/17_informe_quincenal_acumulado_01-01_al_30-09-2025_.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "canary-islands",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-15",
+   "cumulative": true,
+   "from": 12453,
+   "to": 12487,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/17_informe_quincenal_acumulado_01-01_al_15-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/16_informe_quincenal_acumulado_01-01_al_15-09-2025.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "canary-islands",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-30",
+   "cumulative": true,
+   "from": 12848,
+   "to": 12878,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/18_informe_quincenal_acumulado_01-01_al_30-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/17_informe_quincenal_acumulado_01-01_al_30-09-2025_.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "spain",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-15",
+   "cumulative": true,
+   "from": 26225,
+   "to": 26211,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/17_informe_quincenal_acumulado_01-01_al_15-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/16_informe_quincenal_acumulado_01-01_al_15-09-2025.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "spain",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-30",
+   "cumulative": true,
+   "from": 27475,
+   "to": 27476,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/18_informe_quincenal_acumulado_01-01_al_30-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/17_informe_quincenal_acumulado_01-01_al_30-09-2025_.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "spain-mainland",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-15",
+   "cumulative": true,
+   "from": 5630,
+   "to": 5600,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/17_informe_quincenal_acumulado_01-01_al_15-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/16_informe_quincenal_acumulado_01-01_al_15-09-2025.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  },
+  {
+   "sourceId": "es-interior",
+   "area": "spain-mainland",
+   "measure": "arrivals",
+   "start": "2025-01-01",
+   "end": "2025-09-30",
+   "cumulative": true,
+   "from": 5865,
+   "to": 5853,
+   "fromDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/18_informe_quincenal_acumulado_01-01_al_30-09-2026.pdf",
+   "toDocument": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2025/17_informe_quincenal_acumulado_01-01_al_30-09-2025_.pdf",
+   "fromReadAt": "2026-11-25T02:13:05.919Z",
+   "toReadAt": "2026-11-26T08:18:30.808Z"
+  }
+ ]
 }
