@@ -1,7 +1,40 @@
 {
-  "builtAt": "2026-11-26T14:46:38.497Z",
+  "builtAt": "2026-11-27T14:46:13.731Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "dfc6e714e0516253",
+      "route": "atlantic",
+      "outlet": "Canarias7",
+      "lang": "es",
+      "headline": "Diez muertos y seis personas trasladadas en helicóptero en estado grave en un cayuco que se dirigía a El Hierro",
+      "url": "https://www.canarias7.es/politica/evacuan-urgencia-helicoptero-cinco-ocupantes-cayuco-kilometros-20261127103155-nt.html",
+      "publishedAt": "2026-11-27T13:36:23.000Z",
+      "readAt": "2026-11-27T14:46:13.731Z",
+      "kind": "news"
+    },
+    {
+      "id": "250a5a03461c4972",
+      "route": "atlantic",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "Canary Islands plead for help after record migrant arrivals",
+      "url": "https://www.infomigrants.net/en/post/74982/canary-islands-plead-for-help-after-record-migrant-arrivals",
+      "publishedAt": "2026-11-27T08:48:57.000Z",
+      "readAt": "2026-11-27T14:46:13.731Z",
+      "kind": "news"
+    },
+    {
+      "id": "3a9754efb459a0d1",
+      "route": "eu-policy",
+      "outlet": "InfoMigrants",
+      "lang": "en",
+      "headline": "Rwanda's return hub: will Europe's new deportation plan actually deter migration?",
+      "url": "https://www.infomigrants.net/en/post/74973/rwandas-return-hub-will-europes-new-deportation-plan-actually-deter-migration",
+      "publishedAt": "2026-11-26T16:48:26.000Z",
+      "readAt": "2026-11-27T14:46:13.731Z",
+      "kind": "news"
+    },
     {
       "id": "1b1efb2468ff31ac",
       "route": "eastern-med",
@@ -454,6 +487,17 @@
       "kind": "news"
     },
     {
+      "id": "a03defa822b36ce4",
+      "route": "eu-policy",
+      "outlet": "EUAA",
+      "lang": "en",
+      "headline": "Austria and Rwanda hold bilateral negotiations on return hubs in Rwanda",
+      "url": "https://www.bmi.gv.at/news487b.html?id=384a374b664246516545303d",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "readAt": "2026-11-27T14:46:13.731Z",
+      "kind": "policy"
+    },
+    {
       "id": "d7cd0fa3c7ecebf4",
       "route": "eu-policy",
       "outlet": "EUAA",
@@ -793,52 +837,14 @@
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
       "kind": "policy"
-    },
-    {
-      "id": "1681683b749debdb",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "Federal Council plans to adopt the EU Return Regulation",
-      "url": "https://www.admin.ch/fr/newnsb/9IpByEXwnJgd",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "64460869b15b58e0",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "GII notes increase in asylum applications compared to same period last year",
-      "url": "https://igi.mai.gov.ro/1-369-de-cereri-de-azil-depuse-in-primele-9-luni-ale-acestui-an/",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "7c6462b5508921d3",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "Government plans to expand programmes to help asylum seekers find work",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/28/kabinet-meer-meedoenbalies-in-azcs-om-nieuwkomers-aan-werk-te-helpen",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "f3c0ea068a747792",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "SAR celebrates a fruitful cooperation with Swiss partners",
-      "url": "https://aref.government.bg/en/node/1389",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
     }
   ],
   "skippedByWordRule": 0,
-  "failed": []
+  "failed": [
+    {
+      "feed": "Keep Talking Greece: https://www.keeptalkinggreece.com/tag/migrants/feed/",
+      "reason": "HTTP 415",
+      "at": "2026-11-27T14:46:13.731Z"
+    }
+  ]
 }
