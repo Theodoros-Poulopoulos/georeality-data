@@ -1,16 +1,71 @@
 {
-  "builtAt": "2026-11-27T14:46:13.731Z",
+  "builtAt": "2026-11-28T13:56:49.885Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "2187b32c678f4995",
+      "route": "eastern-med",
+      "outlet": "ERT News",
+      "lang": "el",
+      "headline": "Ρεκόρ αφίξεων μεταναστών με 25 λέμβους στην Κρήτη – Μέσα σε ένα 24ωρο ξεπέρασαν τους 1.000",
+      "url": "https://www.ertnews.gr/eidiseis/ellada/rekor-afikseon-metanaston-me-25-lemvous-stin-kriti-mesa-se-ena-24oro-kseperasan-tous-1-000/",
+      "publishedAt": "2026-11-28T11:34:00.000Z",
+      "readAt": "2026-11-28T13:56:49.885Z",
+      "kind": "news"
+    },
+    {
+      "id": "f0e35a54638d7e15",
+      "route": "eastern-med",
+      "outlet": "ERT News",
+      "lang": "el",
+      "headline": "Αδιάκοπες οι μεταναστευτικές ροές νότια της Κρήτης – 777 αλλοδαποί εντοπίστηκαν μέσα σε λίγες ώρες",
+      "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/chania/adiakopes-oi-metanasteytikes-roes-notia-tis-kritis-777-allodapoi-entopistikan-mesa-se-liges-ores/",
+      "publishedAt": "2026-11-28T07:26:43.000Z",
+      "readAt": "2026-11-28T13:56:49.885Z",
+      "kind": "news"
+    },
+    {
+      "id": "b77f50c206e41123",
+      "route": "atlantic",
+      "outlet": "ERT News",
+      "lang": "el",
+      "headline": "Ισπανία: Στους 14 ανήλθαν οι νεκροί μετανάστες σε πλοιάριο στα ανοιχτά των Καναρίων Νήσων",
+      "url": "https://www.ertnews.gr/eidiseis/ispania-stous-14-anilthan-oi-nekroi-metanastes-se-ploiario-sta-anoixta-ton-kanarion-nison/",
+      "publishedAt": "2026-11-28T03:54:00.000Z",
+      "readAt": "2026-11-28T13:56:49.885Z",
+      "kind": "news"
+    },
     {
       "id": "dfc6e714e0516253",
       "route": "atlantic",
       "outlet": "Canarias7",
       "lang": "es",
-      "headline": "Diez muertos y seis personas trasladadas en helicóptero en estado grave en un cayuco que se dirigía a El Hierro",
+      "headline": "14 muertos y 90 supervivientes en un cayuco que quedó a la deriva y sin agua ni comida cuando se dirigía a El Hierro",
       "url": "https://www.canarias7.es/politica/evacuan-urgencia-helicoptero-cinco-ocupantes-cayuco-kilometros-20261127103155-nt.html",
-      "publishedAt": "2026-11-27T13:36:23.000Z",
+      "publishedAt": "2026-11-27T21:27:59.000Z",
       "readAt": "2026-11-27T14:46:13.731Z",
+      "kind": "news"
+    },
+    {
+      "id": "6dade7c5a7679b7f",
+      "route": "atlantic",
+      "outlet": "Europa Press",
+      "lang": "es",
+      "headline": "Llega al muelle de La Restinga (El Hierro) el cayuco con al menos ocho fallecidos a bordo",
+      "url": "https://www.europapress.es/islas-canarias/noticia-llega-muelle-restinga-hierro-cayuco-menos-ocho-fallecidos-bordo-20261127202724.html",
+      "publishedAt": "2026-11-27T19:27:24.000Z",
+      "readAt": "2026-11-28T13:56:49.885Z",
+      "kind": "news"
+    },
+    {
+      "id": "ecbe27280b18a367",
+      "route": "atlantic",
+      "outlet": "Europa Press",
+      "lang": "es",
+      "headline": "Al menos ocho muertos y seis heridos en el rescate de un cayuco en aguas de El Hierro",
+      "url": "https://www.europapress.es/islas-canarias/noticia-menos-ocho-muertos-seis-heridos-rescate-cayuco-aguas-hierro-20261127153727.html",
+      "publishedAt": "2026-11-27T17:27:22.000Z",
+      "readAt": "2026-11-28T13:56:49.885Z",
       "kind": "news"
     },
     {
@@ -45,6 +100,17 @@
       "publishedAt": "2026-11-26T13:14:58.000Z",
       "readAt": "2026-11-26T14:46:38.497Z",
       "kind": "news"
+    },
+    {
+      "id": "7aba2b67c0bae704",
+      "route": "eu-policy",
+      "outlet": "EUAA",
+      "lang": "en",
+      "headline": "GBV and human trafficking: Authorities sign charter for closer cooperation to better protect vulnerable asylum applicants",
+      "url": "https://www.ofii.fr/violences-et-traite-une-cooperation-renforcee-pour-mieux-proteger-les-demandeurs-dasile/",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "readAt": "2026-11-28T13:56:49.885Z",
+      "kind": "policy"
     },
     {
       "id": "2d438677bffd2a16",
@@ -793,50 +859,6 @@
       "publishedAt": "2026-10-29T14:30:53.000Z",
       "readAt": "2026-11-25T02:13:19.208Z",
       "kind": "policy"
-    },
-    {
-      "id": "8d791d958df0d9c4",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "Ministry prepares legislative amendments to align with the EU Return Regulation",
-      "url": "https://intermin.fi/-/eu-n-paluuasetusta-koskevaa-lainsaadantoa-valmistellaan",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "db0ee58fff20854a",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "Caritas calls for funding and improved services for immigrants at budget hearing",
-      "url": "https://caritas.no/aktuelt/integreringsarbeid/flere-ma-fa-tilgang-til-gratis-norskopplaering/",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "e9d8bf47bd050203",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "SAR and UNICEF launch national communication campaign on foster care for unaccompanied minors seeking asylum",
-      "url": "https://www.unicef.org/bulgaria/en/press-releases/right-care-knows-no-borders",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
-    },
-    {
-      "id": "fa2622c70ea8052d",
-      "route": "eu-policy",
-      "outlet": "EUAA",
-      "lang": "en",
-      "headline": "Minister extends residence permits for displaced persons from Ukraine until 2028",
-      "url": "https://www.nyidanmark.dk/en-GB/News-Front-Page/2026/10/Extension-of-residence-permit-under-the-Ukraine-Special-Act",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "readAt": "2026-11-25T02:13:19.208Z",
-      "kind": "policy"
     }
   ],
   "skippedByWordRule": 0,
@@ -844,7 +866,7 @@
     {
       "feed": "Keep Talking Greece: https://www.keeptalkinggreece.com/tag/migrants/feed/",
       "reason": "HTTP 415",
-      "at": "2026-11-27T14:46:13.731Z"
+      "at": "2026-11-28T13:56:49.885Z"
     }
   ]
 }
